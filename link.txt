@@ -143,20 +143,19 @@ RubyKaigi2009	http://rubykaigi.org/2009/ja
 RubyKaigi2011	http://rubykaigi.org/2011/ja
 SA8400	http://www.marantz.jp/ce/products/audio/sacd/sa8400/
 Scythe	http://www.scythe.co.jp/
-Seagate	http://www.seagate-asia.com/sgt/japan/homepage.jsp
+Seagate	http://www.seagate.com/www/ja-jp
 Segafredo Zanetti	http://www.segafredo.jp/
 Soneva Gili	http://www.sixsenses.com/soneva-gili/
 SFC	http://www.sfc.keio.ac.jp/
-Sherry Bar de DOCE	http://www.3cs.co.jp/restaurant/doce.html
+Sherry Bar de DOCE	http://www.3cs.co.jp/restaurants/doce/
 SHIBUYA-AX	http://www.shibuya-ax.com/
 SHUNKAN	http://www.e-mycity.co.jp/shunkan/
 SHURE	http://www.shure.com/
-Smarty	http://smarty.php.net/
 Sol Levante	http://sollevante.jp/
 sony	http://www.sony.co.jp/
-STAUB	http://www.deniau.jp/staub/
+STAUB	http://www.staub.jp/
 STELLA PLACE	http://www.stellarplace.net/
-sterling	http://www.sterlingvineyards.com/age_gateway?destination=home
+sterling	http://www.sterlingvineyards.com/
 Suica	http://www.jreast.co.jp/suica/
 sugahara	http://www.sugahara.com/
 takeONE	http://www.wonder-v.co.jp/
