@@ -6,10 +6,10 @@ Afternoon Tearoom	http://www.afternoon-tea.net/
 AIBO	http://www.jp.aibo.com/
 amazon	http://www.amazon.co.jp/
 andonand	http://www.andonand.jp/
-APC	http://www.apcjp.com/jpn/index.php
+APC	http://www.apcjp.com/jpn/
 Apple	http://www.apple.com/jp/
 Apple Cinema HD Display	http://store.apple.com/0120-APPLE-1/WebObjects/japanstore?productLearnMore=M9179J/A
-artegio	http://www.sansou-murata.com/facilities/artegio01.html
+artegio	http://www.sansou-murata.com/facilities/artegio_dining/
 ATD53-2642	http://watch.citizen.co.jp/denpa_watch/lineup/attesa/532642.html
 AU VIEUX PARIS	http://www.au-vieux-paris.com/
 Baker Bounce	http://bakerbounce.com/
@@ -19,19 +19,19 @@ Bistrot La CUCINA	http://la-cucina.jugem.jp/
 bills	http://bills-jp.net/
 BLACOWS	http://www.kuroge-wagyu.com/bc/
 BOOK OFF	http://www.bookoff.co.jp/
-Bowers&amp;Wilkins	http://www.bwspeakers.jp/
+Bowers&amp;Wilkins	http://www.bowers-wilkins.jp/
 BRASSERIE BEC	http://www.bec-depa.com/
 Burger King	http://www.bk.com/
 BURGER MANIA	http://www.burger-mania.com/
-BURTON	http://www.burton.com/default.aspx
-B-SPEAK	http://www.sansou-murata.com/facilities/bspeak01.html
-CAC-T05-UW Silver	http://www.coolermaster.co.jp/web/product/case/cac-t05-uwa/cac-t05.htm
+BURTON	http://jp.burton.com/on/demandware.store/Sites-Burton_JP-Site/ja_JP
+B-SPEAK	http://www.sansou-murata.com/facilities/b-speak/
+CAC-T05-UW Silver	http://www.coolermaster.co.jp/product.php?product_id=21
 cafe use	http://www.geocities.jp/cafeuse/
 CAFFE DEL SOLEそごう横浜店	http://www.delsole.st/store_info/yokohama_sogo.html
 CAFFE DEL SOLEそごう神戸店	http://www.delsole.st/store_info/kobe_sogo.html
 CANAL CITY	http://www.canalcity.co.jp/
-CERISE by GORDON RAMSAY	http://www.conradtokyo.co.jp/restaurants/cerise/
-CICADA	http://www.tyharborbrewing.co.jp/restaurants/cicada.html
+CERISE by GORDON RAMSAY	http://conradtokyo.co.jp/cerise/
+CICADA	http://www.tyharborbrewing.co.jp/jp/cicada
 CITIZEN	http://www.citizen.co.jp/
 CLUB HARIE	http://clubharie.jp/
 CNN	http://www.cnn.co.jp/
@@ -39,7 +39,7 @@ cocoon	http://www.cocoonweb.jp/
 Conrad Tokyo	http://www.conradtokyo.co.jp/
 COOLER MASTER	http://www.coolermaster.co.jp/
 COTE DOR	http://www.restaurant-cotedor.com/
-CORUM ONLINE	http://www.corum.jp/
+CORUM ONLINE	http://corum.nexon.co.jp/
 DEATH NOTE	http://wwws.warnerbros.co.jp/deathnote/
 DELL	http://www1.jp.dell.com/content/
 DENON	http://denon.jp/
