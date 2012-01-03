@@ -165,7 +165,7 @@ TBS	http://www.tbs.co.jp/
 The Kitchen Salvatore Cuomo	http://www.ystable.co.jp/restaurant/thekitchen/
 TOEIC	http://www.toeic.or.jp/
 TOKIA	http://www.tokia.net/
-TOPKAPI	http://topkapi_turkey.at.infoseek.co.jp/
+TOPKAPI	http://topkapi-dining.jp/
 TRATTORIA DELLA Lanterna Magica	http://www.lanternamagica.jp/
 TX	http://www.mir.co.jp/
 Twitter	http://twitter.com/
@@ -420,7 +420,6 @@ ZIP ZAP	http://www.zip-zap.jp/
 同發	http://www.douhatsu.co.jp/
 東プレ	http://www.topre.co.jp/
 独歩の湯	http://www.yugawara.or.jp/doppoinfo.htm
-トプカプ	http://topkapi_turkey.at.infoseek.co.jp/
 土風炉	http://www.ramla.net/casual_restaurant/tofuro/
 同發土間土間	http://www.doma-doma.com/
 ドミノ・ピザ	http://www.dominos.jp/
