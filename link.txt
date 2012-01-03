@@ -131,7 +131,7 @@ PukiWiki	http://pukiwiki.sourceforge.jp/
 PRIDE	http://www.pridefc.com/pride2005/index_new_temp.php
 PRIME LINK	http://www.prime-link.com/
 PS3	http://www.jp.playstation.com/ps3/
-PX-716A	http://plextor.jp/product/px716a/
+PX-716A	http://plextor.jp/pc/old/px716a/
 RADIOHEAD	http://www.radiohead.com/
 QUARTER POUNDER	http://www.quarter-pounder.net/
 Quintessence	http://www.quintessence.jp/
