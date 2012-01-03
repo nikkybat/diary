@@ -114,9 +114,9 @@ natural Beat	http://www.naturalbeat.com/gelateria.htm
 NEX	http://www.jreast.co.jp/nex/
 nico	http://www.nico-shop.jp/
 NHK	http://www.nhk.or.jp/
-NIKKEI NET	http://www.nikkei.co.jp/
+NIKKEI NET	http://www.nikkei.com/
 northport	http://www.northport.sc/
-Notes	http://www-06.ibm.com/jp/software/lotus/products/nd7/
+Notes	http://www-06.ibm.com/software/jp/lotus/products/nd85/
 NWD7-CX	http://kadenfan.hitachi.co.jp/wash/nwdcx/
 OKTOBERFEST	http://www.oktober-fest.jp/
 Opus One	http://www.opusonewinery.com/
