@@ -177,7 +177,6 @@ victoria	http://www.victoria.co.jp/
 Village Vanguard	http://village-v.co.jp/
 Village Vanguard Diner	http://village-v.co.jp/diner/
 VNC	http://www.realvnc.com/
-WE7international	http://www.konami.jp/gs/ps2/we7int/
 Wii	http://www.nintendo.co.jp/wii/
 WinFast PX6600GT TDH	http://www.leadtek.co.jp/3d_graphic/winfast_px6600_gttdh_1.htm
 Winny	http://www.geocities.co.jp/SiliconValley/2949/
@@ -220,11 +219,6 @@ ZIP ZAP	http://www.zip-zap.jp/
 巌	http://www.asia-kitchen.co.jp/iwao.html
 インデアンカレー	http://www.indiancurry.jp/
 ウイニングイレブン	http://www.konami.jp/we/
-ウイニングイレブン6FE	http://www.konami.jp/gs/ps2/we6fe/
-ウイニングイレブン7	http://www.konami.jp/gs/ps2/we7/
-ウイニングイレブン8	http://www.konami.jp/gs/ps2/we8/
-ウイニングイレブン9	http://www.konami.jp/gs/game/we9/
-ウイニングイレブン10	http://www.konami.jp/gs/game/we10/
 ウィルキンソン	http://www.asahiinryo.co.jp/products/wilkinson/
 ウィンザーホテル	http://www.windsor-hotels.co.jp/
 ウェスタン村	http://www.western-mura.co.jp/
