@@ -139,8 +139,7 @@ RECOfan	http://www.recofan.co.jp/
 recue	http://www.shipsltd.co.jp/other/recue/
 RED LOBSTER	http://www.redlobster.jp/
 RISTORANTE SEMPLICE	http://www.ristorante-semplice.com/
-RubyKaigi2009	http://rubykaigi.org/2009/ja
-RubyKaigi2011	http://rubykaigi.org/2011/ja
+RubyKaigi	http://rubykaigi.org/
 SA8400	http://www.marantz.jp/ce/products/audio/sacd/sa8400/
 Scythe	http://www.scythe.co.jp/
 Seagate	http://www.seagate.com/www/ja-jp
