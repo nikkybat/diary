@@ -48,7 +48,7 @@ E2C	http://www.shure.com/PersonalAudio/Products/Earphones/ESeries/us_pa_E2c_cont
 Electrolux	http://www.electrolux.co.jp/
 equilibrio	http://www.equilibrio-rise.jp/
 FELLOWS	http://www.fellows-burger.com/
-flex2	http://www.adobe.com/jp/products/flex/
+flex	http://www.adobe.com/jp/products/flex/
 Florilege	http://www.aoyama-florilege.jp/
 FOMA	http://www.nttdocomo.co.jp/product/foma/
 FRESHNESS BURGER	http://www.freshnessburger.co.jp/freshnessburger/
