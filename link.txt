@@ -75,7 +75,6 @@ IBM	http://www.ibm.com/jp/
 ICC	http://www.ntticc.or.jp/index_j.html
 iKnow	http://iknow.jp/top
 IL BOCCALONE	http://www.ilboccalone.com/jp/
-iPod	http://www.apple.com/jp/ipod/ipod.html
 iPod mini	http://www.apple.com/jp/ipodmini/
 ITO-YA	http://www.ito-ya.co.jp/
 JAL	http://www.jal.co.jp/
