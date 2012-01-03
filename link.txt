@@ -51,30 +51,29 @@ FELLOWS	http://www.fellows-burger.com/
 flex	http://www.adobe.com/jp/products/flex/
 Florilege	http://www.aoyama-florilege.jp/
 FOMA	http://www.nttdocomo.co.jp/product/foma/
-FRESHNESS BURGER	http://www.freshnessburger.co.jp/freshnessburger/
+FRESHNESS BURGER	http://www.freshnessburger.co.jp/
 Frou Frou	http://www.froufrou.jp/pc/
 gastronomie francaise tateru yoshino	http://www.tateruyoshino.com/top002.html
 Giang's	http://www.giangs.com/
 GROM	http://www.grom.jp/
 GTEC	http://www.benesse.co.jp/gtec/
-Google	http://google.com/
-Google Sitemap	https://www.google.com/webmasters/tools/siteoverview
-GNOCCHI'S NEWYORK	http://www.herbis-ent.com/shop/5_09.html
 GODIVA	http://www.godiva.co.jp/
+GNOCCHI'S NEWYORK	http://www.herbis-ent.com/shop/5_09.html
+Google	http://google.com/
 Google Calendar	https://www.google.com/calendar/render
 Google Developer Day 2009	http://code.google.com/intl/ja/events/developerday/2009/home.html
-Google My Search History	https://www.google.com/searchhistory/
-GORDON RAMSAY	http://www.conradtokyo.co.jp/restaurants/grdnrms/
+Google My Search History	https://www.google.com/history/
+GORDON RAMSAY	http://gordonramsay.jp/
 Hajime Restaurant Gastronomique Osaka Japon	http://www.hajime-artistes.com/
 HARBS	http://www.harbs.co.jp/harbs/
-HERBIS ENT	http://www.herbis-ent.com/
+HERBIS ENT	http://www.herbis.jp/entfloor/map/entb2f.html
 HERLEQUIN BIS	http://herlequin.com/herlequinbis/
 HMV	http://www.hmv.co.jp/
 HOTEL ILMONTE 	http://www.ilmonte.co.jp/
-HUB	http://www.pub-hub.com/index.html
+HUB	http://www.pub-hub.com/
 IBM	http://www.ibm.com/jp/
 ICC	http://www.ntticc.or.jp/index_j.html
-iKnow	http://www.iknow.co.jp/
+iKnow	http://iknow.jp/top
 IL BOCCALONE	http://www.ilboccalone.com/jp/
 iPod	http://www.apple.com/jp/ipod/ipod.html
 iPod mini	http://www.apple.com/jp/ipodmini/
