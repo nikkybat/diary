@@ -202,7 +202,6 @@ ZIP ZAP	http://www.zip-zap.jp/
 甘太郎	http://www.colowide.co.jp/brand/brand.php?brand_no=1
 アリス・イン・ワンダーランド	http://www.disney.co.jp/movies/alice/
 蟻月	http://www.arizuki.com/
-蟻月HANARE	http://www.arizuki.com/map/hanare.html
 有馬温泉	http://www.arima-onsen.com/
 アレッサンドロ・ナニーニ	http://www.nannini-caffe.com/bar/odaiba.html
 イカリ	http://www.ikari-s.co.jp/
