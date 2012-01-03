@@ -81,8 +81,8 @@ JAL	http://www.jal.co.jp/
 JOMO	http://www.j-energy.co.jp/
 JRA	http://www.jra.go.jp/
 JRタワーホテル日航札幌	http://www.jrhotels.co.jp/tower/
-JSKY-SPORTS	http://www.jskysports.com/
-K-1	http://www.k-1.co.jp/index.html
+JSKY-SPORTS	http://www.jsports.co.jp/
+K-1	http://feg-jp.com/jp/
 K2	http://www.k2japan.com/
 KaTeX	http://members.at.infoseek.co.jp/osuneko/xyzzy/xyzzy.html
 Kayumanis	http://www.stillfoods.com/kayumanis/top.html
@@ -90,19 +90,19 @@ KINGSDOWN	http://www.kingsdown.com/
 KONAMI	http://www.konami.jp/
 Krispy Kreme Doughnuts	http://www.krispykreme.jp/
 KUA' AINA	http://www.kua-aina.com/
-LA CHASSE	http://la-chasse.org/default.htm
+LA CHASSE	http://la-chasse.org/
 La Patisserie PIERRE GAGNAIRE	http://www.pierre-gagnaire.net/
 LAX	http://www.lawa.org/welcomeLAWA.html
 Leadtek	http://www.leadtek.co.jp/
 LOFT	http://www.loft.co.jp/
-LOTTERIA	http://lotteria.jp/index.html
+LOTTERIA	http://lotteria.jp/
 M-1	http://www.m-1gp.com/
 McKinsey &amp; Company	http://www.mckinsey.co.jp/
 maille	http://www.maille.com/
 marantz	http://www.marantz.jp/
 MARINE	http://www.tokiomarine-nichido.co.jp/
 MasterCard	http://www.mastercard.com/
-Mathematica	http://www.wolfram.com/index.ja.html
+Mathematica	http://www.wolfram.com/
 MAYA	http://www.mayarestaurant.jp/
 MDR-DS6000	http://www.ecat.sony.co.jp/headphone/product.cfm?PD=22468&KM=MDR-DS6000
 Monsoon Cafe	http://www.monsoon-cafe.jp/jp/casual/home/welcome
