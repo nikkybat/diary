@@ -162,7 +162,7 @@ takeONE	http://www.wonder-v.co.jp/
 TAXI2	http://www.herald.co.jp/official/taxi_2/index.shtml
 TAXI3	http://www.taxi3.jp/
 TBS	http://www.tbs.co.jp/
-The Kitchen Salvatore Cuomo	http://www.ystable.co.jp/restaurant/thekitchen/roppongi.html
+The Kitchen Salvatore Cuomo	http://www.ystable.co.jp/restaurant/thekitchen/
 TOEIC	http://www.toeic.or.jp/
 TOKIA	http://www.tokia.net/
 TOPKAPI	http://topkapi_turkey.at.infoseek.co.jp/
