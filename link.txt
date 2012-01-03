@@ -171,7 +171,7 @@ TX	http://www.mir.co.jp/
 Twitter	http://twitter.com/
 UltraSharp2405	http://jpstore.dell.com/store/newstore/dhs/snp/proddetails_overview.asp?pid=11077
 UStream	http://www.ustream.tv/
-VAIO	http://www.vaio.sony.co.jp/
+VAIO	http://www.sony.jp/vaio/
 Vampire Cafe	http://www.diamond-dining.com/vampire/
 victoria	http://www.victoria.co.jp/
 Village Vanguard	http://village-v.co.jp/
