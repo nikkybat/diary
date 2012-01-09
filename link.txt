@@ -232,8 +232,8 @@ ZIP ZAP	http://www.zip-zap.jp/
 エコーバレー	http://www.echovalley.co.jp/
 オアシス21	http://www.sakaepark.co.jp/
 大阪プロレス	http://www.osaka-prowres.com/
-大芝の湯	http://www.vill.minamiminowa.nagano.jp/kanko/onsen/fureai/
-おだいどこ	http://www.prime-link.com/odaidoko/
+大芝の湯	http://oshiba.jp/oshibanoyu/
+おだいどこ	http://odaidoko.com/
 踊る大捜査線2	http://www.odoru.com/press/index.html
 おはち	http://www.freshnessburger.co.jp/ohachi/
 表参道ヒルズ	http://www.omotesandohills.com/
