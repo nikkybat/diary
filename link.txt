@@ -346,6 +346,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 新丸の内ビルディング	http://www.shinmaru.jp/
 スウィニー・トッド	http://wwws.warnerbros.co.jp/sweeneytodd/
 すかいらーく	http://www.skylark.co.jp/
+スカパー	http://www.skyperfectv.co.jp/
 スタバ	http://www.starbucks.co.jp/index.htm
 スタンフォード大学	http://www.stanford.edu/
 スーパーエッシャー展	http://www.ntv.co.jp/escher/
@@ -450,6 +451,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 ハリアー	http://toyota.jp/harrier/
 晴海グランドホテル	http://www.maxpart.co.jp/harumi/
 パワプロ10	http://www.konamistudio.co.jp/new/pawa10/
+阪急MEN'S TOKYO	 http://www.hankyu-dept.co.jp/mens-tokyo/
 バンコクキッチン	http://www.bangkok-kitchen.com/
 ピエールマルコリーニ	http://www.pierremarcolini.jp/
 ビストロ・ブルゴーニュ	http://www.celebourg.com/bourgogne/
