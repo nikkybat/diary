@@ -155,6 +155,7 @@ sony	http://www.sony.co.jp/
 STAUB	http://www.staub.jp/
 STELLA PLACE	http://www.stellarplace.net/
 sterling	http://www.sterlingvineyards.com/
+STREAMER COFFEE COMPANY	http://streamercoffee.com/
 Suica	http://www.jreast.co.jp/suica/
 sugahara	http://www.sugahara.com/
 takeONE	http://www.wonder-v.co.jp/
@@ -306,6 +307,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 こまくさの湯	http://www.komakusanoyu.com/
 ゴラッソ	http://sports.biglobe.ne.jp/golazo/
 最強伝説黒澤	http://www.bigoriginal.shogakukan.co.jp/manga/kurosawa_c.html
+菜香新館	http://saikoh-shinkan.com/
 埼玉スタジアム	http://www.stadium2002.com/
 サイラス	http://www.silasandmaria.com/silas3/
 サッカーJ+	http://www.enterbrain.co.jp/soccer-j/
@@ -524,6 +526,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 横浜天下鳥	http://www.republic.co.jp/
 良の家	http://www.yosinoya.co.jp/
 米沢牛黄木	http://www.o-ki.co.jp/
+四十八漁場	http://www.apcompany.jp/shop/?sel_kinds[]=17&sel_foods[]=&sel_kinds[]=&submit=%E6%A4%9C%E7%B4%A2
 ライフカード	http://www.lifecard.co.jp/flash.html
 ラ・ヴィオラ	http://www.mikasakaikan.co.jp/e_viola.html
 ラウンドワン	http://www.round1.co.jp/
