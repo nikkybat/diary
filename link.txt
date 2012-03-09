@@ -456,6 +456,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 阪急MEN'S TOKYO	 http://www.hankyu-dept.co.jp/mens-tokyo/
 バンコクキッチン	http://www.bangkok-kitchen.com/
 ピエールマルコリーニ	http://www.pierremarcolini.jp/
+樋川	http://www.higawa.net/
 ビストロ・ブルゴーニュ	http://www.celebourg.com/bourgogne/
 日立	http://www.hitachi.co.jp/
 雛寿司	http://www.create-restaurants.co.jp/
