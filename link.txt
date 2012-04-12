@@ -377,6 +377,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 ダーツバーLOSCABOS	http://www.loscabo.com/top.html
 蓼科東急リゾートホテル	http://www.tateshina-tokyu.com/stay/harvest.html
 谷川岳ロープウェイ	http://www.tanigawadake-rw.com/
+食べログ	http://tabelog.com/
 たまい本店	http://www.tamai-group.com/tamai-honnten.htm
 玉川高島屋	http://www.tamagawa-sc.com/home.html
 玉の湯	http://www.tamanoyu.co.jp/
@@ -482,6 +483,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 ベストメガネコンタクト	http://www.bm1.jp/
 ベルク丸金屋	http://www.janis.or.jp/users/marukane/
 星の王子様ミュージアム	http://www.tbs.co.jp/l-prince/
+蓬来軒 本店	http://houraiken.jp/
 宝来家	http://horaiya.com/
 ホテル高松	http://www.h-takamatsu.com/
 ホテル日航東京	http://www.hnt.co.jp/
@@ -517,6 +519,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 焼肉ジャンボ	http://www.kuroge-wagyu.com/js/
 やまがた屋	http://www.yamagataya.me/
 山のホテル	http://www.odakyu-hotel.co.jp/yama-hotel/
+山県館	http://www.yamagatakan.com/
 山安水産	http://passage-mall.cwj.jp/yamayasu/
 ゆりかもめ	http://www.yurikamome.co.jp/
 よかろう門	http://www.yokaroumon.jp/
