@@ -508,6 +508,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 無量塔	http://www.sansou-murata.com/murata_top.html
 明治亭	http://www.meijitei.com/
 モーモーパラダイス	http://www.wondertable.com/app/tenpo/tenpo?code=MoMoParadise
+もうやんカレー	http://moyan.jp/
 もしもツアーズ	http://www.fujitv.co.jp/moshimo/index2.html
 モス	http://www.mos.co.jp/
 モスバーガークラシック	http://vip.mapion.co.jp/c/f?uc=4&pg=1&grp=MOS&ino=BA703847
