@@ -94,6 +94,7 @@ LA CHASSE	http://la-chasse.org/
 La Patisserie PIERRE GAGNAIRE	http://www.pierre-gagnaire.net/
 LAX	http://www.lawa.org/welcomeLAWA.html
 Leadtek	http://www.leadtek.co.jp/
+L'epice et Epice	http://www.lepiepi.com/
 LOFT	http://www.loft.co.jp/
 LOTTERIA	http://lotteria.jp/
 M-1	http://www.m-1gp.com/
@@ -119,6 +120,7 @@ northport	http://www.northport.sc/
 Notes	http://www-06.ibm.com/software/jp/lotus/products/nd85/
 NWD7-CX	http://kadenfan.hitachi.co.jp/wash/nwdcx/
 OKTOBERFEST	http://www.oktober-fest.jp/
+OpenTable	http://www.opentable.jp/start.aspx?m=201
 Opus One	http://www.opusonewinery.com/
 PASMO	http://www.pasmo.co.jp/
 Patisserie Ravi,e relier	http://ameblo.jp/patisserie-ravie-relier/
