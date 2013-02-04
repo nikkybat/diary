@@ -2,6 +2,7 @@
 2ch	http://www.2ch.net/
 7 ELEVEN	http://www.7-eleven.com/
 ABIT	http://www.abit.com.tw/page/jp/
+accueillir	http://www.accueillir-osaka.com/
 Afternoon Tearoom	http://www.afternoon-tea.net/
 AIBO	http://www.jp.aibo.com/
 amazon	http://www.amazon.co.jp/
@@ -321,6 +322,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 サンウォーク	http://www.sunwalk.net/
 サンクトガーレン	http://www.sanktgallenbrewery.com/
 三渓園	http://www.sankeien.or.jp/
+山玄茶	http://www.eonet.ne.jp/~sangencha/
 三ちゃん食堂	http://sancyan.web.fc2.com/
 三洋	http://www.sanyo.co.jp/
 サントリー	http://www.suntory.co.jp/
@@ -416,6 +418,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 東急ハンズ	http://www.tokyu-hands.co.jp/
 東京ミッドタウン	http://www.tokyo-midtown.com/jp/index.html
 東京三菱	http://www.btm.co.jp/
+東京ラーメンストリート	http://www.tokyoeki-1bangai.co.jp/ramenstreet/
 同發	http://www.douhatsu.co.jp/
 東プレ	http://www.topre.co.jp/
 独歩の湯	http://www.yugawara.or.jp/doppoinfo.htm
@@ -460,6 +463,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 阪急MEN'S TOKYO	 http://www.hankyu-dept.co.jp/mens-tokyo/
 バンコクキッチン	http://www.bangkok-kitchen.com/
 ピエールマルコリーニ	http://www.pierremarcolini.jp/
+ヒカリエ	http://www.hikarie.jp/
 樋川	http://www.higawa.net/
 ビストロ・ブルゴーニュ	http://www.celebourg.com/bourgogne/
 日立	http://www.hitachi.co.jp/
@@ -508,6 +512,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 ミート矢澤	http://www.kuroge-wagyu.com/my/
 みんな大好き塊魂	http://namco-ch.net/katamari_damacy_ps2/
 無雙庵枇杷	http://www.izu-biwa.jp/
+むつみ屋	http://www.mutsumiya.co.jp/mutsumiya.html
 無量塔	http://www.sansou-murata.com/murata_top.html
 明治亭	http://www.meijitei.com/
 モーモーパラダイス	http://www.wondertable.com/app/tenpo/tenpo?code=MoMoParadise
@@ -540,6 +545,7 @@ ZIP ZAP	http://www.zip-zap.jp/
 ラウンドワン	http://www.round1.co.jp/
 ラクーア	http://www.laqua.jp/
 ラ・クープ	http://www.la-coupe.com/
+ラゾーナ川崎	http://www.lazona-kawasaki.com/
 ラ博	http://www.raumen.co.jp/
 ラビュット・ボワゼ	http://shinsei-sha.com/
 ラフォーレ・やまね	http://www15.plala.or.jp/la-yamane/
